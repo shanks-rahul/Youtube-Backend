@@ -19,5 +19,5 @@
 
 4. Run the server
 ```
-    npm run dev
+    nodemon index.js
 ```
